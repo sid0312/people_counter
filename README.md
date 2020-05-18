@@ -8,9 +8,12 @@ git clone https://github.com/sid0312/people_counter
 # Install required packages
 
 pip install opencv-python
+
 pip install mxnet-cu101
+
 pip install gluoncv
 
 # To run the code 
 cd people_counter
+
 python count_people.py
