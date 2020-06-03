@@ -17,3 +17,6 @@ pip install gluoncv
 cd people_counter
 
 python count_people.py
+
+
+Made with :heart: by Siddhant Baldota 
